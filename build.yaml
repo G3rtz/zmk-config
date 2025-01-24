@@ -20,3 +20,4 @@
 ---
 include:
   - board: bt60_v2
+    snippet: zmk-usb-logging

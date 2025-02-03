@@ -22,5 +22,5 @@ include:
   - board: bt60_v2
 #    snippet: zmk-usb-logging
     snippet: studio-rpc-usb-uart
-    cmake-args: -DCONFIG_ZMK_STUDIO=y
+    cmake-args: -zmk-usb-logging
     
